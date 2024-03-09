@@ -21,20 +21,20 @@ Project consists of a tutorial of creating an Active Directory. The purpose of A
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Active Directory Diagram <br/>
+<img src="https://i.imgur.com/DOWcsRn.png" height="80%" width="80%" alt="Active Directory Lab"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create First Virtual Machine: DC -Domain Controller  <br/>
+<img src="https://i.imgur.com/jYIiZzT.png" height="80%" width="80%" alt="Active Directory Lab"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download Server ISO <br/>
+<img src="https://i.imgur.com/LJkZ1M1.png" height="80%" width="80%" alt="Active Directory Lab"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Begin the Process of creating an Active Directory  <br/>
+<img src="https://i.imgur.com/3SWrBcJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
